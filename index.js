@@ -1,0 +1,1 @@
+const {Corsa, Kwid} = require('./autos');
