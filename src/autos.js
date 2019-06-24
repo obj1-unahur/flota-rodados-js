@@ -1,23 +1,23 @@
 class Corsa {
-    capacidad() { 
-      return 4;
-    }
-  
-    velocidadMaxima() {
-      return 150;
-    }
-  
-    color() {
-      return this._color;
-    }
-  
-    peso() {
-      return 1300;
-    }
+  capacidad() { 
+    return 4;
   }
-  
-  class Kwid {
-    // ...completar...
+
+  velocidadMaxima() {
+    return 150;
   }
-  
-  module.exports = { Corsa, Kwid }
+
+  color() {
+    return this._color;
+  }
+
+  peso() {
+    return 1300;
+  }
+}
+
+class Kwid {
+  // ...completar...
+}
+
+module.exports = { Corsa, Kwid }
