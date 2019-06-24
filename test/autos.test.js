@@ -1,4 +1,4 @@
-const {Corsa, Kwid} = require('./autos');
+const {Corsa, Kwid} = require('../src/autos');
 
 describe('Corsa', () => {
   var cachito;
